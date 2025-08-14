@@ -3,22 +3,32 @@
 I am a passionate problem solver and tech enthusiast, driven by curiosity and a love for learning.  
 My journey revolves around exploring **Data Structures & Algorithms**, **Machine Learning**, and **Web Development**, while building skills through hands-on challenges and projects.
 
-<!-- LeetCode Heatmap & Badges -->
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/nehasethii?theme=dark&font=Roboto&ext=heatmap&show_badges=true" alt="LeetCode Heatmap" width="49%" />
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=nehasethii&animated=true&theme=github-dark" alt="LeetCode Badges" width="49%" />
-</p>
+<h2 align="center">⚡ LeetCode Info ⚡</h2>
 
-<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nehasethii&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="95%" />
-</p>
+  <!-- Heatmap -->
+  <img src="https://leetcard.jacoblin.cool/nehasethii?theme=dark&font=Roboto&ext=heatmap&show_badges=true" alt="LeetCode Heatmap" width="400" />
 
----
+  <!-- Badges next to heatmap -->
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="Badge 1" height="150" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="Badge 2" height="150" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="Badge 3" height="150" />
+</p>
+<br/>
+<br/>
+  <h2 align="center">⚡ Current Statistics ⚡</h2>
+<br>
+<div align=center>
+<!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <p align="center"> -->
+  <img width=390 src="https://streak-stats.demolab.com/?user=nehasethii&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=nehasethii&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehasethii&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 ## 🚀 About Me
 
-- 🎓 **Final Year** B.Tech in **Computer Science & Engineering**, **[Your College Name]**
+- 🎓 **Final Year** B.Tech Undergrad in **Information Technology**, **Panipat Institute Of Engineering and Technology , affiliated to KUK**
 - 🔭 Currently sharpening my **DSA** skills with **200+ problems solved on LeetCode** (and counting!)
 - 🌱 Exploring **Machine Learning**, **Deep Learning**, and **Full Stack Web Development**
 - 👯 Open to collaborating on **AI/ML projects**, **competitive programming**, and **web applications**
