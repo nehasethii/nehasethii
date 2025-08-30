@@ -3,8 +3,6 @@
 I am a passionate problem solver and tech enthusiast, driven by curiosity and a love for learning.  
 My journey revolves around exploring **Data Structures & Algorithms**, **Machine Learning**, and **Web Development**, while building skills through hands-on challenges and projects.
 
----
-
 <h2 align="center">⚡ LeetCode Statistics ⚡</h2>
 
 <div align="center">
@@ -26,8 +24,12 @@ My journey revolves around exploring **Data Structures & Algorithms**, **Machine
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=nehasethii&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehasethii&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
 
----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nehasethii&theme=onestar&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
 
 ## 🚀 About Me
 
@@ -40,20 +42,17 @@ My journey revolves around exploring **Data Structures & Algorithms**, **Machine
 - 😄 Pronouns: She/Her  
 - ⚡ Fun fact: Every solved problem teaches me more than just code — it teaches me persistence 🚀
 
----
 
 ## 🛠 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,git,github)](https://skillicons.dev)
 
----
 
 ## 📈 Competitive Programming
 
 - 🏹 **LeetCode:** [nehasethii](https://leetcode.com/nehasethii) — Solved **220+ problems** and actively participating in contests
 - 💡 Focused on mastering algorithms and optimization techniques
 
----
 
 ## 📫 Get in Touch
 
