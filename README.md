@@ -17,17 +17,17 @@ My journey revolves around exploring **Data Structures & Algorithms**, **Machine
 
 </div>
 
-<h2 align="center">⚡ GitHub Statistics ⚡</h2>
+<!-- <h2 align="center">⚡ GitHub Statistics ⚡</h2>
 
 <div align="center">
   <img width=390 src="https://streak-stats.demolab.com/?user=nehasethii&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
- </div>
+ </div> -->
 
 ## 🚀 About Me
 
 - 🎓 **Final Year** B.Tech Undergrad in **Information Technology**,  
   **Panipat Institute Of Engineering and Technology (PIET), Affiliated to KUK**
-- 🔭 Currently sharpening my **DSA** skills with **220+ problems solved on LeetCode** (and counting!)
+- 🔭 Currently sharpening my **DSA** skills with **250+ problems solved on LeetCode** (and counting!)
 - 🌱 Exploring **Machine Learning**, **Deep Learning**, and **Full Stack Web Development**
 - 👯 Open to collaborating on **AI/ML projects**, **competitive programming**, and **web applications**
 - 💬 Ask me about **LeetCode strategies**, **Python**, **Java**, and **problem-solving approaches**
@@ -42,7 +42,7 @@ My journey revolves around exploring **Data Structures & Algorithms**, **Machine
 
 ## 📈 Competitive Programming
 
-- 🏹 **LeetCode:** [nehasethii](https://leetcode.com/nehasethii) — Solved **220+ problems** and actively participating in contests
+- 🏹 **LeetCode:** [nehasethii](https://leetcode.com/nehasethii) — Solved **250+ problems** and actively participating in contests
 - 💡 Focused on mastering algorithms and optimization techniques
 
 
