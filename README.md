@@ -1,16 +1,18 @@
 # Hi, I'm Neha Sethi! 👋
 
-I am a passionate problem solver and tech enthusiast, driven by curiosity and a love for learning.  
-My journey revolves around exploring **Data Structures & Algorithms**, **Machine Learning**, and **Web Development**, while building skills through hands-on challenges and projects.
+I am a problem solver and technology enthusiast with a strong interest in **Data Structures & Algorithms**, **Software Development**, and **AI/NLP applications**.
+My journey revolves around building practical projects, strengthening problem-solving skills, and continuously learning through hands-on experience.
 
 <h2 align="center">⚡ LeetCode Statistics ⚡</h2>
 
 <div align="center">
-  
+
   <!-- Contest Rating -->
+
   <img src="https://leetcard.jacoblin.cool/nehasethii?theme=dark&font=Roboto&ext=contest" alt="LeetCode Contest Rating" height="250" />
 
   <!-- Badges (side by side) -->
+
   <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="Badge 1" height="150" />
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="Badge 2" height="150" />
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="Badge 3" height="150" />
@@ -25,26 +27,22 @@ My journey revolves around exploring **Data Structures & Algorithms**, **Machine
 
 ## 🚀 About Me
 
-- 🎓 **Final Year** B.Tech Undergrad in **Information Technology**,  
-  **Panipat Institute Of Engineering and Technology (PIET), Affiliated to KUK**
-- 🔭 Currently sharpening my **DSA** skills with **250+ problems solved on LeetCode** (and counting!)
-- 🌱 Exploring **Machine Learning**, **Deep Learning**, and **Full Stack Web Development**
-- 👯 Open to collaborating on **AI/ML projects**, **competitive programming**, and **web applications**
-- 💬 Ask me about **LeetCode strategies**, **Python**, **Java**, and **problem-solving approaches**
-- 😄 Pronouns: She/Her  
-- ⚡ Fun fact: Every solved problem teaches me more than just code — it teaches me persistence 🚀
-
+* 🎓 B.Tech Graduate in **Information Technology** from **Panipat Institute of Engineering and Technology (PIET), Kurukshetra University**
+* 💻 Solved **250+ Data Structures & Algorithms problems** on LeetCode using **Java**
+* 🤖 Built AI/NLP-based projects including **Generalizable Emotion Classifier** and **AI-Based Offline Interview Coach**
+* 📄 Co-author of an **IEEE publication** on Deep Learning-based Potato Leaf Disease Detection
+* 🌱 Currently improving my skills in **Data Structures & Algorithms**, **Software Development**, and **AI technologies**
+* 👯 Open to collaborating on **software development**, **AI/ML projects**, and **open-source contributions**
+* 💬 Ask me about **Java**, **Python**, **LeetCode**, and **problem-solving approaches**
 
 ## 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,git,github)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,html,css,javascript,git,github)](https://skillicons.dev)
 
 ## 📈 Competitive Programming
 
-- 🏹 **LeetCode:** [nehasethii](https://leetcode.com/nehasethii) — Solved **250+ problems** and actively participating in contests
-- 💡 Focused on mastering algorithms and optimization techniques
-
+* 🏹 **LeetCode:** [nehasethii](https://leetcode.com/nehasethii) — Solved **250+ problems** and actively participating in contests
+* 💡 Focused on strengthening problem-solving, algorithms, and interview preparation
 
 ## 📫 Get in Touch
 
@@ -59,6 +57,5 @@ My journey revolves around exploring **Data Structures & Algorithms**, **Machine
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
   </a>
 </p>
-
 
 > "Every problem has a solution — the challenge is finding the best one."
