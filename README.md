@@ -13,6 +13,7 @@ My journey revolves around building practical projects, strengthening problem-so
 
   <!-- Badges (side by side) -->
 
+  <img src="https://assets.leetcode.com/static_assets/others/50.gif" alt="Badge 3" height="150" />
   <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="Badge 1" height="150" />
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="Badge 2" height="150" />
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="Badge 3" height="150" />
@@ -41,7 +42,7 @@ My journey revolves around building practical projects, strengthening problem-so
 
 ## 📈 Competitive Programming
 
-* 🏹 **LeetCode:** [nehasethii](https://leetcode.com/nehasethii) — Solved **250+ problems** and actively participating in contests
+* 🏹 **LeetCode:** [nehasethii](https://leetcode.com/nehasethii) — Solved **280+ problems** and actively participating in contests
 * 💡 Focused on strengthening problem-solving, algorithms, and interview preparation
 
 ## 📫 Get in Touch
